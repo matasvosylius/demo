@@ -5,14 +5,14 @@
     { "id": 3, "title": "Post 3" }
   ],
   "cars": [
-    { "id": 1, "brand": "Audi Q3", "seats": 4 },
-    { "id": 2, "brand": "Seat Ibiza", "seats": 4 },
-    { "id": 3, "brand": "Seat Arona", "seats": 2 },
-    { "id": 4, "brand": "Ford Fiesta", "seats": 3 },
-    { "id": 5, "brand": "Subaru Outback", "seats": 4 },
-    { "id": 6, "brand": "Audi Passat", "seats": 4 },
-    { "id": 7, "brand": "BMW X3", "seats": 4 },
-    { "id": 8, "brand": "Lada Niva", "seats": 2 }
+    { "id": 1, "brand": "Audi Q3", "seats": 4 ,"years": 1997 },
+    { "id": 2, "brand": "Seat Ibiza", "seats": 4, "years": 2016},
+    { "id": 3, "brand": "Seat Arona", "seats": 2 ,"years": 2017},
+    { "id": 4, "brand": "Ford Fiesta", "seats": 3, "years": 2019 },
+    { "id": 5, "brand": "Subaru Outback", "seats": 4 , "years": 2018},
+    { "id": 6, "brand": "Audi Passat", "seats": 4, "years": 2012},
+    { "id": 7, "brand": "BMW X3", "seats": 4, "years": 2014},
+    { "id": 8, "brand": "Lada Niva", "seats": 2, "years": 2008}
   ],
   "profile": {
     "name": "typicode"
