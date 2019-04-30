@@ -5,76 +5,13 @@
     { "id": 3, "title": "Post 3" }
   ],
   "cars": [
-  {
-    "car_id": "1",
-    "driver_id": "null",
-    "number_of_seats": "4",
-    "car_category": "Shared",
-    "plate_number": "478ACC",
-    "model": "BMW",
-    "fuel_capacity": "80",
-    "avg_fuel_per_hour": "8"
-  },
-  {
-    "car_id": "2",
-    "driver_id": "3",
-    "number_of_seats": "4",
-    "car_category": "Shared",
-    "plate_number": "468XBC",
-    "model": "Audi",
-    "fuel_capacity": "85",
-    "avg_fuel_per_hour": "8"
-  },
-  {
-    "car_id": "3",
-    "driver_id": "1",
-    "number_of_seats": "4",
-    "car_category": "Common",
-    "plate_number": "438HJC",
-    "model": "Tesla",
-    "fuel_capacity": "75",
-    "avg_fuel_per_hour": "8"
-  },
-  {
-    "car_id": "4",
-    "driver_id": "2",
-    "number_of_seats": "4",
-    "car_category": "Luxury",
-    "plate_number": "418ADC",
-    "model": "Toyota",
-    "fuel_capacity": "63",
-    "avg_fuel_per_hour": "8"
-  },
-    {
-    "car_id": "5",
-    "driver_id": "5",
-    "number_of_seats": "4",
-    "car_category": "Luxury",
-    "plate_number": "425DRR",
-    "model": "Tesla",
-    "fuel_capacity": "12",
-    "avg_fuel_per_hour": "4"
-  },
-    {
-    "car_id": "6",
-    "driver_id": "4",
-    "number_of_seats": "4",
-    "car_category": "Common",
-    "plate_number": "222AAA",
-    "model": "Ford",
-    "fuel_capacity": "120",
-    "avg_fuel_per_hour": "8.6"
-  },
-    {
-    "car_id": "7",
-    "driver_id": "6",
-    "number_of_seats": "4",
-    "car_category": "Shared",
-    "plate_number": "DDT555",
-    "model": "Subaru",
-    "fuel_capacity": "78",
-    "avg_fuel_per_hour": "10.1"
-  }
+  {"car_id": "1", "driver_id": "null", "number_of_seats": "4" ,"car_category": "Shared", "plate_number": "478ACC","model": "BMW","fuel_capacity": "80","avg_fuel_per_hour": "8"},
+  {"car_id": "2","driver_id": "3","number_of_seats": "4","car_category": "Shared","plate_number": "468XBC", "model": "Audi", "fuel_capacity": "85","avg_fuel_per_hour": "8"},
+  {"car_id": "3","driver_id": "1","number_of_seats": "4","car_category": "Common", "plate_number": "438HJC","model": "Tesla","fuel_capacity": "75","avg_fuel_per_hour": "8"},
+  {"car_id": "4","driver_id": "2","number_of_seats": "4","car_category": "Luxury","plate_number": "418ADC","model": "Toyota","fuel_capacity": "63","avg_fuel_per_hour": "8"},
+  {"car_id": "5","driver_id": "5","number_of_seats": "4","car_category": "Luxury","plate_number": "425DRR","model": "Tesla","fuel_capacity": "12","avg_fuel_per_hour": "4"},
+  {"car_id": "6","driver_id": "4","number_of_seats": "4","car_category": "Common","plate_number": "222AAA","model": "Ford","fuel_capacity": "120","avg_fuel_per_hour": "8.6"},
+  {"car_id": "7","driver_id": "6","number_of_seats": "4","car_category": "Shared","plate_number": "DDT555","model": "Subaru","fuel_capacity": "78","avg_fuel_per_hour": "10.1"}
   ],
   "profile": {
     "name": "typicode"
