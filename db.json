@@ -44,7 +44,8 @@
     "model": "Toyota",
     "fuel_capacity": "63",
     "avg_fuel_per_hour": "8"
-  }
+  },
+    {
     "car_id": "5",
     "driver_id": "5",
     "number_of_seats": "4",
@@ -53,8 +54,8 @@
     "model": "Tesla",
     "fuel_capacity": "12",
     "avg_fuel_per_hour": "4"
-  }
-      }
+  },
+    {
     "car_id": "6",
     "driver_id": "4",
     "number_of_seats": "4",
@@ -63,8 +64,8 @@
     "model": "Ford",
     "fuel_capacity": "120",
     "avg_fuel_per_hour": "8.6"
-  }
-          }
+  },
+    {
     "car_id": "6",
     "driver_id": "6",
     "number_of_seats": "4",
