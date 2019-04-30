@@ -12,6 +12,20 @@
   {"id": 5,"driver_id": 5,"seats": "3","car_category": "Luxury","plate_number": "425DRR","model": "Tesla","fuel_capacity": "12","avg_fuel_per_hour": 4,"status": "offline"},
   {"id": 6,"driver_id": 4,"seats": "2","car_category": "Common","plate_number": "222AAA","model": "Ford","fuel_capacity": "120","avg_fuel_per_hour": 8.6,"status": "available"},
   {"id": 7,"driver_id": 6,"seats": "5","car_category": "Shared","plate_number": "DDT555","model": "Subaru","fuel_capacity": "78","avg_fuel_per_hour": 10.1,"status": "offline"}
+  {"id": 8, "driver_id":2, "seats": "4" ,"car_category": "Luxury", "plate_number": "478ACC","model": "BMW","fuel_capacity": "77","avg_fuel_per_hour": 8.7,"status": "available"},
+  {"id": 9,"driver_id": 3,"seats": "3","car_category": "Shared","plate_number": "468XBC", "model": "Audi", "fuel_capacity": "111","avg_fuel_per_hour": 9.5,"status": "available"},
+  {"id": 10,"driver_id": 1,"seats": "4","car_category": "Common", "plate_number": "438HJC","model": "Tesla","fuel_capacity": "75","avg_fuel_per_hour": 8,"status": "available"},
+  {"id": 11,"driver_id": 2,"seats": "4","car_category": "Luxury","plate_number": "418ADC","model": "Toyota","fuel_capacity": "63","avg_fuel_per_hour": 6,"status": "busy"},
+  {"id": 12,"driver_id": 5,"seats": "3","car_category": "Luxury","plate_number": "425DRR","model": "Tesla","fuel_capacity": "12","avg_fuel_per_hour": 4,"status": "available"},
+  {"id": 13,"driver_id": 4,"seats": "2","car_category": "Common","plate_number": "425DRR","model": "Ford","fuel_capacity": "120","avg_fuel_per_hour": 8.6,"status": "available"},
+  {"id": 14,"driver_id": 6,"seats": "5","car_category": "Shared","plate_number": "DDT555","model": "Subaru","fuel_capacity": "76","avg_fuel_per_hour": 10.1,"status": "available"},
+  {"id": 15, "driver_id":2, "seats": "4" ,"car_category": "Shared", "plate_number": "478ACC","model": "BMW","fuel_capacity": "85","avg_fuel_per_hour": 8,"status": "available"},
+  {"id": 16,"driver_id": 3,"seats": "3","car_category": "Luxury","plate_number": "468XBC", "model": "Audi", "fuel_capacity": "95","avg_fuel_per_hour": 8,"status": "available"},
+  {"id": 17,"driver_id": 1,"seats": "4","car_category": "Common", "plate_number": "425DRR","model": "Tesla","fuel_capacity": "75","avg_fuel_per_hour": 8,"status": "busy"},
+  {"id": 18,"driver_id": 2,"seats": "4","car_category": "Common","plate_number": "418ADC","model": "Toyota","fuel_capacity": "63","avg_fuel_per_hour": 8,"status": "busy"},
+  {"id": 19,"driver_id": 5,"seats": "3","car_category": "Luxury","plate_number": "425DRR","model": "Tesla","fuel_capacity": "23","avg_fuel_per_hour": 4,"status": "offline"},
+  {"id": 20,"driver_id": 4,"seats": "2","car_category": "Luxury","plate_number": "222AAA","model": "Ford","fuel_capacity": "120","avg_fuel_per_hour": 8.6,"status": "busy"},
+  {"id": 21,"driver_id": 6,"seats": "5","car_category": "Common","plate_number": "DDT555","model": "Subaru","fuel_capacity": "78","avg_fuel_per_hour": 10.1,"status": "busy"}
   ],
   "users": [
   {
