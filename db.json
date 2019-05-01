@@ -1,8 +1,11 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
+  "trips": [
+    { "id": 1, "order_date": "2019-04-03", "user_id": 3, "order_status": "completed", "price": 6.65, "passangers": 2, "pit_stop":true },
+    { "id": 2, "order_date": "2019-04-13", "user_id": 2, "order_status": "incoming", "price": null, "passangers": 3, "pit_stop":false},
+    { "id": 3, "order_date": "2019-04-13", "user_id": 3, "order_status": "pending", "price": null, "passangers": 1, "pit_stop":false},
+    { "id": 4, "order_date": "2019-04-14", "user_id": 1, "order_status": "completed", "price": 8.65, "passangers": 2, "pit_stop":false },
+    { "id": 5, "order_date": "2019-04-15", "user_id": 4, "order_status": "completed", "price": 2.4, "passangers": 3, "pit_stop":true},
+    { "id": 6, "order_date": "2019-04-26", "user_id": 5, "order_status": "completed", "price": 17.2, "passangers": 1, "pit_stop":true}
   ],
   "cars": [
   {"id": 1, "driver_id":2, "seats": "4" ,"car_category": "Shared", "plate_number": "478ACC","model": "BMW","fuel_capacity": "80","avg_fuel_per_hour": 8,"status": "available"},
