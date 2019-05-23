@@ -1,5 +1,5 @@
 {
-  "admin": [
+  "authenticate": [
     { "username": "admin", "password": "test"}
   ]
 }
